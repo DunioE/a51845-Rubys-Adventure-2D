@@ -3374,6 +3374,10 @@ PrefabInstance:
       propertyPath: maxHealth
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 2752641993220480041, guid: e6fa98f6a9f73dc458da32c222c01a93, type: 3}
+      propertyPath: projectilePrefab
+      value: 
+      objectReference: {fileID: 7828179433527136582, guid: 3751a1846e3e23d4089250c811e1219a, type: 3}
     - target: {fileID: 2752641993220480042, guid: e6fa98f6a9f73dc458da32c222c01a93, type: 3}
       propertyPath: m_RootOrder
       value: 1
