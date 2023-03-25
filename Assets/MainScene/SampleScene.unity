@@ -897,7 +897,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: e406c04157c663a43b859646b7ad3c2a, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.714
+  m_Volume: 0.597
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -14761,7 +14761,7 @@ PrefabInstance:
     - target: {fileID: 332499725332596491, guid: 6005ee8109ed68d41b02ffbeb12062bf, type: 3}
       propertyPath: collectedClip
       value: 
-      objectReference: {fileID: 8300000, guid: af5f8b64e3f58f24c87ff8f789b04f6c, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 332499725332596599, guid: 6005ee8109ed68d41b02ffbeb12062bf, type: 3}
       propertyPath: m_Name
       value: CollectibleHealth
