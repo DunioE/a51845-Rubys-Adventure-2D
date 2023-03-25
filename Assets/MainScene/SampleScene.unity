@@ -14758,6 +14758,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 332499725332596491, guid: 6005ee8109ed68d41b02ffbeb12062bf, type: 3}
+      propertyPath: collectedClip
+      value: 
+      objectReference: {fileID: 8300000, guid: af5f8b64e3f58f24c87ff8f789b04f6c, type: 3}
     - target: {fileID: 332499725332596599, guid: 6005ee8109ed68d41b02ffbeb12062bf, type: 3}
       propertyPath: m_Name
       value: CollectibleHealth
