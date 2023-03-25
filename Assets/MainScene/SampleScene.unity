@@ -13658,6 +13658,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!198 &1905004055 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 5381897688036898969, guid: a42e47b97bcec6a43aa23b0ca228993d, type: 3}
+  m_PrefabInstance: {fileID: 552752868626870791}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2118954788 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2752641993220480042, guid: e6fa98f6a9f73dc458da32c222c01a93, type: 3}
@@ -13828,6 +13833,10 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: -0.774088
       objectReference: {fileID: 0}
+    - target: {fileID: 5381897688036898969, guid: a42e47b97bcec6a43aa23b0ca228993d, type: 3}
+      propertyPath: moveWithTransform
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6267628555303455540, guid: a42e47b97bcec6a43aa23b0ca228993d, type: 3}
       propertyPath: m_Constraints
       value: 4
@@ -13898,6 +13907,7 @@ MonoBehaviour:
   speed: 1
   vertical: 1
   changeTime: 3
+  smokeEffect: {fileID: 1905004055}
 --- !u!1001 &2752641994042003139
 PrefabInstance:
   m_ObjectHideFlags: 0
