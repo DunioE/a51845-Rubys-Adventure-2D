@@ -3281,6 +3281,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Inimigo
       objectReference: {fileID: 0}
+    - target: {fileID: 4502029599424144616, guid: a42e47b97bcec6a43aa23b0ca228993d, type: 3}
+      propertyPath: m_Size.y
+      value: 2.6005545
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502029599424144616, guid: a42e47b97bcec6a43aa23b0ca228993d, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.020277262
+      objectReference: {fileID: 0}
     - target: {fileID: 6931624365805986420, guid: a42e47b97bcec6a43aa23b0ca228993d, type: 3}
       propertyPath: m_RootOrder
       value: 7
