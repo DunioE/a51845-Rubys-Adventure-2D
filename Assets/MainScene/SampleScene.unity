@@ -141,7 +141,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &244824568
 RectTransform:
   m_ObjectHideFlags: 0
@@ -160,8 +160,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.0629, y: 1.96}
-  m_SizeDelta: {x: 378.5668, y: 200}
+  m_AnchoredPosition: {x: 0.0905, y: 1.96}
+  m_SizeDelta: {x: 384.0842, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &244824569
 MonoBehaviour:
@@ -14385,7 +14385,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8, y: 0.0000076293945}
+  m_AnchoredPosition: {x: 14.065, y: 0.0000076293945}
   m_SizeDelta: {x: -28.13, y: -42.68}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2106622031
@@ -14854,6 +14854,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6216247672858914440, guid: 2989408a3cfba314b93508944c76f3d5, type: 3}
+      propertyPath: dialogBox
+      value: 
+      objectReference: {fileID: 244824567}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2989408a3cfba314b93508944c76f3d5, type: 3}
 --- !u!1001 &4235251611819691020
