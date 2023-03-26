@@ -101,8 +101,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  projectilePrefab: {fileID: 0}
   maxHealth: 5
+  projectilePrefab: {fileID: 0}
+  throwSound: {fileID: 0}
+  hitSound: {fileID: 0}
   timeInvincible: 2
 --- !u!50 &2939526474403166276
 Rigidbody2D:
