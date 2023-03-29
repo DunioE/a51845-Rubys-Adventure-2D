@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2752641993220480041}
   - component: {fileID: 2939526474403166276}
   - component: {fileID: 444802115556822490}
-  - component: {fileID: 7272360408349084520}
+  - component: {fileID: 8872389496960823634}
   m_Layer: 8
   m_Name: Ruby
   m_TagString: Untagged
@@ -105,7 +105,7 @@ MonoBehaviour:
   projectilePrefab: {fileID: 0}
   throwSound: {fileID: 0}
   hitSound: {fileID: 0}
-  timeInvincible: 2
+  timeInvincible: 1
 --- !u!50 &2939526474403166276
 Rigidbody2D:
   serializedVersion: 4
@@ -153,7 +153,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.37451148, y: 0.3591645}
   m_EdgeRadius: 0
---- !u!95 &7272360408349084520
+--- !u!95 &8872389496960823634
 Animator:
   serializedVersion: 4
   m_ObjectHideFlags: 0
